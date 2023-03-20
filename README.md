@@ -1,20 +1,18 @@
-# Big Game Survey 
+# README.MD
+# Licença
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/brunacs97/LogicalForest_brunasilva_compass/blob/master/LICENSE)
 
 # Sobre o projeto
 
 Aprendizagem sobre criação de readme.md de forma organizada.
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+## BRANCH GIT
+![GIT](https://github.com/brunacs97/imagens/blob/main/image-67.png)
 
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+## Readme
+![Web 1](https://github.com/brunacs97/imagens/blob/main/o-que-e-readme.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
 
 # Tecnologias utilizadas
 ## Back end
@@ -67,8 +65,5 @@ yarn start
 ```
 
 # Autor
-
-Wellington Mazoni de Andrade
-
-https://www.linkedin.com/in/wmazoni
+Bruna Cristina Ribeiro da Silva
 
